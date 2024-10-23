@@ -1,0 +1,22 @@
+.nav {
+    background-color: rgb(191, 219, 239);
+    border-style: dotted;
+    border-color: rgb(197, 220, 238);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .nav p {
+    margin: 0;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+  }
+  

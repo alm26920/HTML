@@ -1,0 +1,17 @@
+.honors {
+    background-color: #f0f4f8;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .honors dl {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .honors dt {
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  

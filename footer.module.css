@@ -1,0 +1,21 @@
+.footer {
+    background-color: rgb(191, 219, 239);
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: #333333;
+  }
+  
+  .footer a:hover {
+    color: #0073b1;
+  }
+  
+  .footer i {
+    margin-left: 10px;
+    color: #0073b1;
+  }
+  
